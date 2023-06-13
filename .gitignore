@@ -1,0 +1,5 @@
+# Config files
+/echo-bot/config.py
+
+# JetBrains
+.idea/
