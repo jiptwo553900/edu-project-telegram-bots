@@ -1,5 +1,5 @@
 # Config files
-/echo-bot/config.py
+/echo_bot/config.py
 
 # JetBrains
 .idea/
