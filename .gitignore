@@ -5,3 +5,5 @@
 # JetBrains
 .idea/
 
+# Admin sandbox
+/_testing_stuff/
