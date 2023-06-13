@@ -1,6 +1,6 @@
 # Config files
-/echo_bot/config.py
-/number_game_bot/config.py
+/echo_bot/config
+/number_game_bot/config
 
 # JetBrains
 .idea/
