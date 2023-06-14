@@ -7,3 +7,6 @@
 
 # Admin sandbox
 /_testing_stuff/
+
+# Cache
+.mypy_cache/
